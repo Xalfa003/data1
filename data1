@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <zanamy>
-<mereni id="">
-<teplota></teplota>
+<mereni id="increment" date="YYYY-MM-DD">
+<teplota type="C"> </teplota>
 </mereni>
 </zanamy>
